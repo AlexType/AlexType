@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AlexType or Alexandr Bryzgalov
-- 👀 I'm interested in Front-End development
-- 🌱 I’m currently learning React / Axios / TypeScript / Redux and MobX
-- 💞️ I’m looking to collaborate on ...
+- 👀 I'm Front-End developer
 - 📫 How to reach me https://t.me/AlexColdD
 
 <!---
